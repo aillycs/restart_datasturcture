@@ -10,4 +10,4 @@ heap_sort.c
 quick_sort.c
 
 add new in 9th Nov.
-shell_sort
+shell_sort.c
