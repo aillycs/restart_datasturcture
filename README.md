@@ -8,3 +8,6 @@ select_sort.c
 insertion_sort.c
 heap_sort.c
 quick_sort.c
+
+add new in 9th Nov.
+shell_sort
